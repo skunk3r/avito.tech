@@ -1,3 +1,20 @@
+# avito.tech тестовое задание Frontend  
+https://github.com/avito-tech/safedeal-frontend-trainee
+Приложение получает от сервера список картинок, после чего получает их увеличенные версии и комментарии к каждой из них (всего лишь 2 картинки с дефолтными комментариями).    
+Дополнительно от себя добавил кнопку запроса еще партии картинок (для них уже не предусмотрены дефолтные комментарии) и возможность написания и отправки собственного комментария
+
+Адаптивный дизайн  
+Использован React  
+Менеджер пакетов npm. В директории для запуска консольные команды  
+"npm install" и "npm start"
+
+Скриншоты
+![Скрин](screenshots/1.png "screenshot1")
+![Скрин](screenshots/2.png "screenshot2")
+![Скрин](screenshots/3.png "screenshot3")
+![Скрин](screenshots/4.png "screenshot4")
+
+<!-- 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +85,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+-->
